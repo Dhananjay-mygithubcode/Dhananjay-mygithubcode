@@ -1,20 +1,61 @@
-- 👋 Hi, I’m @Dhananjay-mygithubcode
-Welcome to my GitHub Repository!
 
-🚀 About Me
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhananjay+!;" />
+</h1>
 
-Hey there! 👋 I'm Dhananjay, a passionate developer with a love for both front-end and back-end development. I'm always exploring new technologies to enhance my skills and create amazing web experiences. Here, you'll find a collection of my projects, mainly focused on Node.js, Express.js, MongoDB, JavaScript, HTML, and CSS. I'm also in the process of diving into exciting new technologies like Nest.js , React.js, and Tailwind CSS.
+<h3 align="center">A passionate software developer from India </h3>
 
-💼 What I Do
+<br/>
 
-As a developer, I specialize in creating robust and scalable web applications. My skills include: · Node.js: I'm proficient in building efficient and scalable server-side applications with Node.js. · Express.js: I use Express.js to create RESTful APIs and handle routing in my projects. · MongoDB: I have experience with MongoDB for database management, ensuring data persistence and retrieval. · JavaScript: My primary programming language, which I use to bring life to web applications. · HTML & CSS: I'm well-versed in crafting clean and responsive user interfaces. · Learning New Technologies: I'm currently expanding my skill set by delving into exciting technologies like Nest.js, React.js, and Tailwind CSS.
+<div align="center">
+ 
+ 🔭 I’m currently working as a **freelancer**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-🌱 What's Next?
+💬 Ask me about **Node.js, React, ... or anything [here](  )**
 
-I'm constantly pushing the boundaries of my knowledge and skills. Currently, I'm diving into the following technologies: · Nest.js: Exploring the world of Nest.js to build efficient and scalable server-side applications. · React.js: Learning to create dynamic and interactive user interfaces with React.js. · Tailwind CSS: Mastering the art of crafting beautiful and responsive UIs with ease.
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-📫 Get in Touch
+ </div>
+ 
+<div align="center"> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-I'm always open to collaboration and networking. If you have any questions, ideas, or just want to chat about technology, feel free to reach out to me: Email: dhananjaysakeesoft@gmail.com LinkedIn: www.linkedin.com/in/dhananjayram
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+</div>
 
-Let's connect and make the web a more amazing place together! 😄 Thank you for visiting my GitHub repository. Happy coding! 🚀
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dhananjay-mygithubcode/Dhananjay-mygithubcode/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com?user=Dhananjay-mygithubcode&theme=transparent&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="streak stats"/>
+  <img width=328 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay-mygithubcode&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
+<br>
