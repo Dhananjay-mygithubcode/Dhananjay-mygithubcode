@@ -11,9 +11,8 @@
  
  🔭 I’m currently working as a **freelancer**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, ... or anything [here](  )**
+ <!--🌱 I’m currently learning **Docker, Supabase, AWS**-->
+💬 Ask me about **Java, Node.js, React, ... or anything [here](  )**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -36,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,bootstrap,html,css,vscode,github,figma,angular,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,postman,nextjs,mysql" /><br>
 </div>
 
 <br/>
