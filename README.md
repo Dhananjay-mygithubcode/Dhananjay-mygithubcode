@@ -12,7 +12,7 @@
  🔭 I’m currently working as a **freelancer**
  
  <!--🌱 I’m currently learning **Docker, Supabase, AWS**-->
-💬 Ask me about **Spring Boot, Spring Cloud, Microservices with Spring, Node.js, React, Angular, ... or anything [here](  )**
+💬 Ask me about **Spring Boot, Spring Cloud, Microservices with Spring, Node.js, React, ... **
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
